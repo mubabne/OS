@@ -1,0 +1,19 @@
+Лабораторийн ажил №5
+Due October 9, 2026 11:59 PM
+•
+Multiple submissions allowed
+PROCESS & MEMORY
+Instructions
+Үндсэн сурах бичгийн 5-р бүлгийн Practice Exercises даалгаврыг гүйцэтгэнэ. 
+
+Practice Exercises даалгаврыг гүйцэтгэн latex дээр тайлан бичиж илгээнэ. Тайланд асуулт болон хариултыг монгол хэлээр бичиж жагсаасан байна.
+My work
+
+
+Points
+100 points possible
+AI guidelines
+AI use for learning and brainstorming only
+
+You may use AI tools to help you learn concepts, to brainstorm ideas and outline your thoughts. Do not use AI to write, complete your assignment or revise your work.
+

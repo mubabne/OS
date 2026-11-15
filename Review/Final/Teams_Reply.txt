@@ -1,6 +1,0 @@
-Шүүмжлэгч код: II-4-1
-Шүүмжилсэн код: IV-2-4
-
-Manual-ийн дагуу Ubuntu 24.04 (Linux 7.0, gcc 13.3, Python 3.12, Firefox 147) VM дээр Build/Run хийв. Үндсэн тест PASS: номын 4 өнгө, Collatz start=27 (112 гишүүн, оргил 9232), C тест 4/4, сценари 9/9. Kernel module-уудыг жинхэнэ kernel-д ачаалж, dmesg-ийн 24 ба 112 мөрийг Python-ийн тооцоотой тулгахад бүгд таарсан. Нэмэлт 14 тест болон Manual-ийн 18 boundary тестээс цөм нь зөв ажиллаж байгааг харсан. Харин make test-ийн HTTP тест 5-аас 3 удаа BrokenPipeError-оор унасан, Release/Tag байхгүй, README өөр repo руу заадаг, README/Report/Manual хоорондоо зөрдөг (3 Major), мөн 10 Minor асуудал илэрсэн. Critical алдаа илрээгүй. Дэлгэрэнгүйг Review PDF-ээс үзнэ үү.
-
-Хавсралт: II-4-1_Review_IV-2-4.pdf

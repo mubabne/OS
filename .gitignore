@@ -1,4 +1,37 @@
-Assignment
-biedaalt1
-Lectures
-Review
+# Course folders kept local only
+Assignment/
+biedaalt1/
+Lectures/
+Review/
+
+# Office / editor lock and temp files
+~$*
+*.tmp
+.~lock.*
+
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.ko
+*.mod.c
+*.order
+*.symvers
+
+# LaTeX intermediates
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+lab5/tmpimg/
+
+# OS / IDE clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
